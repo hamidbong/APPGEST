@@ -1,0 +1,4 @@
+Numero:  Nom salle:  Bloc:  Id patient: 
+Numero:  Nom salle:  Bloc:  Id patient: 
+Numero:  Nom salle:  Bloc:  Id patient: 
+Numero:  Nom salle:  Bloc:  Id patient: 

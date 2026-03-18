@@ -1,0 +1,2 @@
+Numero: a Nom salle: b Bloc: c Id patient: 
+Numero: a Nom salle: b Bloc: c Id patient: 
