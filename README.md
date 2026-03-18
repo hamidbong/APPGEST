@@ -55,7 +55,6 @@ Script: `gest_salle.sh`
 - `patt_Gest/`: saved patient files
 - `patt_Gest/les_Factures/`: generated bill files
 - `salle_Gest/`: saved room files
-- `sal_Gest/`: currently unused (legacy/empty folder)
 
 ## Requirements
 
